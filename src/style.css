@@ -1,0 +1,50 @@
+.card-imagem{
+    max-width: 18rem;
+}
+
+.borda-cor-especial {
+    border-color: #8b0000;
+}
+
+.btn-cor-especial {
+    background-color: #8b0000;
+    color: white;
+}
+
+.card-imagem-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+.texto-cor-especial {
+    color: #8b0000;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+}
+
+.fonte-titulo:hover {
+    text-decoration: none;
+    color:#8b0000;
+}
+
+.fonte-titulo-imagem{
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+}
+
+.imagem-carrossel-um {
+    height: 600px;
+    object-fit: cover;
+    object-position: 0 65% ;
+}
+
+.imagem-carrossel-dois {
+    height: 600px;
+    object-fit: cover;
+}
+
+
+
